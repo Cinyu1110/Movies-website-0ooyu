@@ -1,0 +1,1126 @@
+{
+  "movies": [
+    {
+      "title": "肖申克的救赎",
+      "director": {
+        "name": "弗兰克·德拉邦特",
+        "region": "美国"
+      },
+      "year": 1994,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.7,
+      "duration": 142,
+      "region": [
+        "美国"
+      ],
+      "summary": "银行家安迪因被误判杀害妻子而入狱，在肖申克监狱中用二十年完成了不可能的越狱，也救赎了狱友瑞德的人生。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p480747492.jpg"
+    },
+    {
+      "title": "霸王别姬",
+      "director": {
+        "name": "陈凯歌",
+        "region": "中国"
+      },
+      "year": 1993,
+      "genre": [
+        "剧情",
+        "爱情"
+      ],
+      "rating": 9.6,
+      "duration": 171,
+      "region": [
+        "中国",
+        "中国香港"
+      ],
+      "summary": "段小楼与程蝶衣从小在戏班学艺，合演《霸王别姬》名震京城。半个世纪的爱恨纠葛中，京剧的兴衰与时代的变迁交织成一部悲怆史诗。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911205318.jpg"
+    },
+    {
+      "title": "阿甘正传",
+      "director": {
+        "name": "罗伯特·泽米吉斯",
+        "region": "美国"
+      },
+      "year": 1994,
+      "genre": [
+        "剧情",
+        "喜剧"
+      ],
+      "rating": 9.5,
+      "duration": 142,
+      "region": [
+        "美国"
+      ],
+      "summary": "智商只有75的阿甘，凭着一股“跑下去“的傻劲，见证了美国战后三十年的重大历史事件，也始终爱着青梅竹马的珍妮。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2500944103.jpg"
+    },
+    {
+      "title": "泰坦尼克号",
+      "director": {
+        "name": "詹姆斯·卡梅隆",
+        "region": "加拿大"
+      },
+      "year": 1997,
+      "genre": [
+        "爱情",
+        "灾难"
+      ],
+      "rating": 9.4,
+      "duration": 194,
+      "region": [
+        "美国"
+      ],
+      "summary": "穷画家杰克与贵族少女罗丝在泰坦尼克号首航中相遇相爱，巨轮撞上冰山后，杰克把生的希望留给了罗丝。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p457760035.jpg"
+    },
+    {
+      "title": "千与千寻",
+      "director": {
+        "name": "宫崎骏",
+        "region": "日本"
+      },
+      "year": 2001,
+      "genre": [
+        "动画",
+        "奇幻"
+      ],
+      "rating": 9.4,
+      "duration": 125,
+      "region": [
+        "日本"
+      ],
+      "summary": "10岁的千寻随父母误入神灵世界，父母因贪吃变成了猪。为了救回父母，她在汤婆婆的浴场里打工，逐渐学会了勇敢与独立。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557573348.jpg"
+    },
+    {
+      "title": "美丽人生",
+      "director": {
+        "name": "罗伯托·贝尼尼",
+        "region": "意大利"
+      },
+      "year": 1997,
+      "genre": [
+        "剧情",
+        "喜剧",
+        "战争"
+      ],
+      "rating": 9.5,
+      "duration": 116,
+      "region": [
+        "意大利"
+      ],
+      "summary": "犹太青年圭多与多拉相爱并有了儿子约书亚，二战爆发后一家人被关进集中营。为了让儿子相信这只是场游戏，圭多编造了一个美丽的谎言。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2578474613.jpg"
+    },
+    {
+      "title": "辛德勒的名单",
+      "director": {
+        "name": "史蒂文·斯皮尔伯格",
+        "region": "美国"
+      },
+      "year": 1993,
+      "genre": [
+        "剧情",
+        "历史",
+        "战争"
+      ],
+      "rating": 9.5,
+      "duration": 195,
+      "region": [
+        "美国"
+      ],
+      "summary": "二战期间，德国商人辛德勒目睹纳粹对犹太人的屠杀后，倾尽家财开出一份“生命名单“，拯救了1100多名犹太人的生命。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p492406163.jpg"
+    },
+    {
+      "title": "盗梦空间",
+      "director": {
+        "name": "克里斯托弗·诺兰",
+        "region": "英国"
+      },
+      "year": 2010,
+      "genre": [
+        "科幻",
+        "动作"
+      ],
+      "rating": 9.4,
+      "duration": 148,
+      "region": [
+        "美国",
+        "英国"
+      ],
+      "summary": "职业盗梦者柯布受命完成一项不可能的任务——在目标的深层潜意识中植入一个想法。多重梦境层层嵌套，现实与梦的边界逐渐模糊。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p513344864.jpg"
+    },
+    {
+      "title": "这个杀手不太冷",
+      "director": {
+        "name": "吕克·贝松",
+        "region": "法国"
+      },
+      "year": 1994,
+      "genre": [
+        "剧情",
+        "动作"
+      ],
+      "rating": 9.4,
+      "duration": 110,
+      "region": [
+        "法国"
+      ],
+      "summary": "职业杀手里昂收留了全家被杀害的12岁女孩玛蒂尔达，两人在纽约的公寓里相互取暖——他教她杀人，她教他生活。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2913554676.jpg"
+    },
+    {
+      "title": "忠犬八公的故事",
+      "director": {
+        "name": "拉斯·霍尔斯道姆",
+        "region": "瑞典"
+      },
+      "year": 2009,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.4,
+      "duration": 93,
+      "region": [
+        "美国",
+        "英国"
+      ],
+      "summary": "大学教授帕克在小镇车站偶遇一只走失的秋田犬，取名“八公“。帕克去世后，八公每天傍晚准时出现在车站，一等就是九年。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587099240.jpg"
+    },
+    {
+      "title": "十二怒汉",
+      "director": {
+        "name": "西德尼·吕美特",
+        "region": "美国"
+      },
+      "year": 1957,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.4,
+      "duration": 96,
+      "region": [
+        "美国"
+      ],
+      "summary": "一个贫民窟少年被控弑父，12名陪审员在闷热的房间里展开辩论。起初只有一人投“无罪“，一场关于偏见与正义的对话由此展开。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2173577632.jpg"
+    },
+    {
+      "title": "教父",
+      "director": {
+        "name": "弗朗西斯·福特·科波拉",
+        "region": "美国"
+      },
+      "year": 1972,
+      "genre": [
+        "剧情",
+        "犯罪"
+      ],
+      "rating": 9.3,
+      "duration": 175,
+      "region": [
+        "美国"
+      ],
+      "summary": "维托·柯里昂是纽约最有权势的黑手党家族首领。三儿子迈克尔本不想涉足家族事务，却在一次次变故中走向了父亲的老路。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p616779645.jpg"
+    },
+    {
+      "title": "星际穿越",
+      "director": {
+        "name": "克里斯托弗·诺兰",
+        "region": "英国"
+      },
+      "year": 2014,
+      "genre": [
+        "科幻",
+        "冒险"
+      ],
+      "rating": 9.3,
+      "duration": 169,
+      "region": [
+        "美国",
+        "英国"
+      ],
+      "summary": "不远的未来地球环境恶化，前NASA飞行员库珀穿越虫洞寻找人类新家园。在黑洞边缘的一小时，等于地球上的七年。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2614988097.jpg"
+    },
+    {
+      "title": "楚门的世界",
+      "director": {
+        "name": "彼得·威尔",
+        "region": "澳大利亚"
+      },
+      "year": 1998,
+      "genre": [
+        "剧情",
+        "科幻"
+      ],
+      "rating": 9.3,
+      "duration": 103,
+      "region": [
+        "美国"
+      ],
+      "summary": "楚门从出生起就活在一个巨大的摄影棚里，他的一切都是被安排的真人秀。当发现真相后，他决心走出这个虚假的世界。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p479682972.jpg"
+    },
+    {
+      "title": "海上钢琴师",
+      "director": {
+        "name": "朱塞佩·托纳多雷",
+        "region": "意大利"
+      },
+      "year": 1998,
+      "genre": [
+        "剧情",
+        "音乐"
+      ],
+      "rating": 9.3,
+      "duration": 165,
+      "region": [
+        "意大利"
+      ],
+      "summary": "1900年，一个婴儿被遗弃在豪华邮轮上，被锅炉工收养。他无师自通成为钢琴天才，却一生从未踏上过陆地。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2914698334.jpg"
+    },
+    {
+      "title": "机器人总动员",
+      "director": {
+        "name": "安德鲁·斯坦顿",
+        "region": "美国"
+      },
+      "year": 2008,
+      "genre": [
+        "动画",
+        "科幻",
+        "冒险"
+      ],
+      "rating": 9.3,
+      "duration": 98,
+      "region": [
+        "美国"
+      ],
+      "summary": "公元2805年，地球上只剩一个清理垃圾的小机器人瓦力。探测机器人伊娃从天而降，瓦力坠入爱河，追随她踏上太空冒险。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p1461851991.jpg"
+    },
+    {
+      "title": "三傻大闹宝莱坞",
+      "director": {
+        "name": "拉库马·希拉尼",
+        "region": "印度"
+      },
+      "year": 2009,
+      "genre": [
+        "剧情",
+        "喜剧"
+      ],
+      "rating": 9.2,
+      "duration": 170,
+      "region": [
+        "印度"
+      ],
+      "summary": "兰彻是帝国工程学院里最不按常理出牌的学生，他用热爱而非功利的态度对待学习，改变了好友法尔汉和拉朱的人生轨迹。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p579729551.jpg"
+    },
+    {
+      "title": "放牛班的春天",
+      "director": {
+        "name": "克里斯托夫·巴拉蒂耶",
+        "region": "法国"
+      },
+      "year": 2004,
+      "genre": [
+        "剧情",
+        "音乐"
+      ],
+      "rating": 9.3,
+      "duration": 97,
+      "region": [
+        "法国",
+        "瑞士",
+        "德国"
+      ],
+      "summary": "失意的音乐家马修来到一所问题少年寄宿学校做代课老师，他用音乐打开了孩子们封闭的心门，组建了一支合唱团。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884280708.jpg"
+    },
+    {
+      "title": "无间道",
+      "director": {
+        "name": "刘伟强",
+        "region": "中国香港"
+      },
+      "year": 2002,
+      "genre": [
+        "剧情",
+        "犯罪"
+      ],
+      "rating": 9.3,
+      "duration": 101,
+      "region": [
+        "中国香港"
+      ],
+      "summary": "警方卧底陈永仁与黑帮卧底刘建明，分别潜入对方组织多年。一场毒品交易后，双方都意识到——组织里有内鬼。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2597979873.jpg"
+    },
+    {
+      "title": "熔炉",
+      "director": {
+        "name": "黄东赫",
+        "region": "韩国"
+      },
+      "year": 2011,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.3,
+      "duration": 125,
+      "region": [
+        "韩国"
+      ],
+      "summary": "来自首尔的哑语美术老师姜仁浩来到雾津一所聋哑学校任教，逐渐发现教职工对学生们长期实施的性侵暴行。他决定撕开黑暗。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p1363250216.jpg"
+    },
+    {
+      "title": "大话西游之大圣娶亲",
+      "director": {
+        "name": "刘镇伟",
+        "region": "中国香港"
+      },
+      "year": 1995,
+      "genre": [
+        "喜剧",
+        "爱情",
+        "奇幻"
+      ],
+      "rating": 9.2,
+      "duration": 99,
+      "region": [
+        "中国香港"
+      ],
+      "summary": "至尊宝穿越回五百年前，本为救白晶晶却爱上了紫霞仙子。戴上金箍就无法拥抱你，放下金箍就无法保护你。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2455050536.jpg"
+    },
+    {
+      "title": "活着",
+      "director": {
+        "name": "张艺谋",
+        "region": "中国"
+      },
+      "year": 1994,
+      "genre": [
+        "剧情",
+        "历史",
+        "家庭"
+      ],
+      "rating": 9.3,
+      "duration": 133,
+      "region": [
+        "中国",
+        "中国香港"
+      ],
+      "summary": "福贵本是地主家的纨绔少爷，因赌博输光家产，却阴差阳错躲过了土改。此后几十年里，他经历了战争、运动和家庭的一次次离散。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2597919477.jpg"
+    },
+    {
+      "title": "鬼子来了",
+      "director": {
+        "name": "姜文",
+        "region": "中国"
+      },
+      "year": 2000,
+      "genre": [
+        "剧情",
+        "历史",
+        "战争"
+      ],
+      "rating": 9.3,
+      "duration": 139,
+      "region": [
+        "中国"
+      ],
+      "summary": "抗日战争末期，河北挂甲台村的马大三被强塞了一个日本俘虏和一个翻译。全村人既不敢杀也不敢放，在恐惧与摇摆中走向荒诞的结局。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2930874010.jpg"
+    },
+    {
+      "title": "大闹天宫",
+      "director": {
+        "name": "万籁鸣",
+        "region": "中国"
+      },
+      "year": 1961,
+      "genre": [
+        "动画",
+        "奇幻"
+      ],
+      "rating": 9.3,
+      "duration": 114,
+      "region": [
+        "中国"
+      ],
+      "summary": "中国动画史上的巅峰之作。孙悟空龙宫借宝、天庭封官、大闹蟠桃会、大战天兵——从头到尾都是反抗与自由的狂欢。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2184505167.jpg"
+    },
+    {
+      "title": "乱世佳人",
+      "director": {
+        "name": "维克多·弗莱明",
+        "region": "美国"
+      },
+      "year": 1939,
+      "genre": [
+        "剧情",
+        "爱情",
+        "历史"
+      ],
+      "rating": 9.3,
+      "duration": 238,
+      "region": [
+        "美国"
+      ],
+      "summary": "南北战争背景下，骄傲任性的南方庄园千金斯嘉丽在战火中失去了一切，却又一次次凭着自己的倔强站了起来。“明天又是新的一天。”",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1963126880.jpg"
+    },
+    {
+      "title": "触不可及",
+      "director": {
+        "name": "奥利维埃·纳卡什",
+        "region": "法国"
+      },
+      "year": 2011,
+      "genre": [
+        "剧情",
+        "喜剧"
+      ],
+      "rating": 9.3,
+      "duration": 112,
+      "region": [
+        "法国"
+      ],
+      "summary": "因跳伞事故瘫痪的白人富翁菲利普雇佣了刚从监狱出来的黑人青年德里斯做护工。两个来自完全不同世界的人，碰撞出了最真诚的友谊。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p1454261925.jpg"
+    },
+    {
+      "title": "让子弹飞",
+      "director": {
+        "name": "姜文",
+        "region": "中国"
+      },
+      "year": 2010,
+      "genre": [
+        "剧情",
+        "喜剧",
+        "动作"
+      ],
+      "rating": 9,
+      "duration": 132,
+      "region": [
+        "中国",
+        "中国香港"
+      ],
+      "summary": "北洋年间，悍匪张麻子劫了县长马邦德的火车后冒名上任鹅城，与地方恶霸黄四郎展开了一场斗智斗勇的较量。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p1512562287.jpg"
+    },
+    {
+      "title": "控方证人",
+      "director": {
+        "name": "比利·怀尔德",
+        "region": "美国"
+      },
+      "year": 1957,
+      "genre": [
+        "剧情",
+        "悬疑",
+        "犯罪"
+      ],
+      "rating": 9.6,
+      "duration": 116,
+      "region": [
+        "美国"
+      ],
+      "summary": "伦敦著名律师威尔弗里德爵士为涉嫌谋杀富婆的沃尔辩护。庭审中，沃尔的妻子克莉丝汀竟作为控方证人出庭，一场精妙绝伦的法庭反转就此展开。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2927451337.jpg"
+    },
+    {
+      "title": "天堂电影院",
+      "director": {
+        "name": "朱塞佩·托纳多雷",
+        "region": "意大利"
+      },
+      "year": 1988,
+      "genre": [
+        "剧情",
+        "爱情"
+      ],
+      "rating": 9.2,
+      "duration": 124,
+      "region": [
+        "意大利",
+        "法国"
+      ],
+      "summary": "意大利小镇上，男孩多多与电影院放映师阿尔弗雷多成了忘年交。在阿尔弗雷多的鼓励下，多多走出小镇追寻电影梦想，多年后回乡参加葬礼时收到了一份特殊的礼物。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2653054340.jpg"
+    },
+    {
+      "title": "指环王3：王者无敌",
+      "director": {
+        "name": "彼得·杰克逊",
+        "region": "新西兰"
+      },
+      "year": 2003,
+      "genre": [
+        "奇幻",
+        "冒险",
+        "动作"
+      ],
+      "rating": 9.3,
+      "duration": 201,
+      "region": [
+        "新西兰",
+        "美国"
+      ],
+      "summary": "弗罗多和山姆深入魔多完成销毁至尊魔戒的使命，阿拉贡率领人类最后的军队在黑门前决战索伦。中土世界的命运在此一战。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2642829472.jpg"
+    },
+    {
+      "title": "蝙蝠侠：黑暗骑士",
+      "director": {
+        "name": "克里斯托弗·诺兰",
+        "region": "英国"
+      },
+      "year": 2008,
+      "genre": [
+        "动作",
+        "犯罪",
+        "剧情"
+      ],
+      "rating": 9.2,
+      "duration": 152,
+      "region": [
+        "美国",
+        "英国"
+      ],
+      "summary": "蝙蝠侠联手检察官哈维·丹特打击哥谭市犯罪，却遭遇了不按任何规则出牌的小丑。混乱面前，英雄的底线受到了最极端的考验。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p462657443.jpg"
+    },
+    {
+      "title": "龙猫",
+      "director": {
+        "name": "宫崎骏",
+        "region": "日本"
+      },
+      "year": 1988,
+      "genre": [
+        "动画",
+        "奇幻"
+      ],
+      "rating": 9.2,
+      "duration": 86,
+      "region": [
+        "日本"
+      ],
+      "summary": "小月和小梅随父亲搬到乡下，在一棵大樟树下发现了只有孩子才能看见的森林精灵龙猫。龙猫带着她们在月光下飞翔，在树顶眺望田野。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2540924496.jpg"
+    },
+    {
+      "title": "搏击俱乐部",
+      "director": {
+        "name": "大卫·芬奇",
+        "region": "美国"
+      },
+      "year": 1999,
+      "genre": [
+        "剧情",
+        "动作",
+        "悬疑"
+      ],
+      "rating": 9.1,
+      "duration": 139,
+      "region": [
+        "美国",
+        "德国"
+      ],
+      "summary": "一个患有失眠症的都市白领遇到了肥皂商人泰勒，两人创建了一个地下搏击俱乐部。会员越来越多，泰勒的计划却远远超越了拳拳到肉的宣泄。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p1910931622.jpg"
+    },
+    {
+      "title": "当幸福来敲门",
+      "director": {
+        "name": "加布里尔·穆奇诺",
+        "region": "意大利"
+      },
+      "year": 2006,
+      "genre": [
+        "剧情",
+        "传记"
+      ],
+      "rating": 9.2,
+      "duration": 117,
+      "region": [
+        "美国"
+      ],
+      "summary": "推销员克里斯用全部积蓄购入骨密度扫描仪却滞销，妻子离开、房东赶人，他带着5岁的儿子流落地铁站厕所。为了翻身，他争抢一个无薪的股票经纪人实习机会。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1312700628.jpg"
+    },
+    {
+      "title": "飞屋环游记",
+      "director": {
+        "name": "彼特·道格特",
+        "region": "美国"
+      },
+      "year": 2009,
+      "genre": [
+        "动画",
+        "冒险",
+        "剧情"
+      ],
+      "rating": 9.1,
+      "duration": 96,
+      "region": [
+        "美国"
+      ],
+      "summary": "78岁的卡尔为了实现亡妻的遗愿，用成千上万个气球把老屋升上天空飞往南美洲。意外带上了一个8岁小胖墩罗素，两人在仙境瀑布边展开冒险。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p485887754.jpg"
+    },
+    {
+      "title": "少年派的奇幻漂流",
+      "director": {
+        "name": "李安",
+        "region": "中国台湾"
+      },
+      "year": 2012,
+      "genre": [
+        "剧情",
+        "奇幻",
+        "冒险"
+      ],
+      "rating": 9.1,
+      "duration": 127,
+      "region": [
+        "美国",
+        "中国台湾",
+        "英国",
+        "加拿大"
+      ],
+      "summary": "16岁的印度少年派一家带着动物园的动物乘船移民加拿大，途中遭遇海难。派与一只孟加拉虎理查德·帕克在太平洋上漂了227天。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p1784592701.jpg"
+    },
+    {
+      "title": "怦然心动",
+      "director": {
+        "name": "罗伯·莱纳",
+        "region": "美国"
+      },
+      "year": 2010,
+      "genre": [
+        "剧情",
+        "爱情"
+      ],
+      "rating": 9.1,
+      "duration": 90,
+      "region": [
+        "美国"
+      ],
+      "summary": "二年级时朱莉对邻家男孩布莱斯一见钟情，此后六年里她追他躲。当布莱斯终于开始注意到朱莉时，朱莉却在重新思考——他到底值不值得我喜欢？",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p501177648.jpg"
+    },
+    {
+      "title": "狮子王",
+      "director": {
+        "name": "罗杰·阿勒斯",
+        "region": "美国"
+      },
+      "year": 1994,
+      "genre": [
+        "动画",
+        "冒险",
+        "歌舞"
+      ],
+      "rating": 9.1,
+      "duration": 89,
+      "region": [
+        "美国"
+      ],
+      "summary": "小狮子辛巴被叔叔刀疤陷害，以为父亲的死是自己的错，逃离了荣耀大地。多年后在朋友们的鼓励下，他决定回去夺回本该属于自己的王位。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p726659067.jpg"
+    },
+    {
+      "title": "闻香识女人",
+      "director": {
+        "name": "马丁·布莱斯特",
+        "region": "美国"
+      },
+      "year": 1992,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.1,
+      "duration": 157,
+      "region": [
+        "美国"
+      ],
+      "summary": "贫困高中生查理受雇在感恩节照顾脾气暴躁的盲人退役中校弗兰克。弗兰克带着查理去纽约进行“最后的狂欢“——一顿大餐、一辆法拉利、一曲探戈。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550757929.jpg"
+    },
+    {
+      "title": "钢琴家",
+      "director": {
+        "name": "罗曼·波兰斯基",
+        "region": "法国"
+      },
+      "year": 2002,
+      "genre": [
+        "剧情",
+        "音乐",
+        "战争"
+      ],
+      "rating": 9.2,
+      "duration": 150,
+      "region": [
+        "法国",
+        "德国",
+        "英国",
+        "波兰"
+      ],
+      "summary": "波兰犹太钢琴家斯普尔曼在二战华沙的废墟中东躲西藏，靠朋友的帮助和一个德国军官的恻隐之心活了下来。他坐在钢琴前的那一刻，音乐超越了战争。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p1381339291.jpg"
+    },
+    {
+      "title": "指环王2：双塔奇兵",
+      "director": {
+        "name": "彼得·杰克逊",
+        "region": "新西兰"
+      },
+      "year": 2002,
+      "genre": [
+        "奇幻",
+        "冒险",
+        "动作"
+      ],
+      "rating": 9.2,
+      "duration": 179,
+      "region": [
+        "新西兰",
+        "美国"
+      ],
+      "summary": "护戒小队分散三路：弗罗多继续向魔多前进，阿拉贡等人前往洛汗王国抵抗萨鲁曼的大军，树人向艾辛格进军。圣盔谷之战成为中土历史上最壮烈的守城战。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2640236255.jpg"
+    },
+    {
+      "title": "指环王1：护戒使者",
+      "director": {
+        "name": "彼得·杰克逊",
+        "region": "新西兰"
+      },
+      "year": 2001,
+      "genre": [
+        "奇幻",
+        "冒险",
+        "动作"
+      ],
+      "rating": 9.1,
+      "duration": 178,
+      "region": [
+        "新西兰",
+        "美国"
+      ],
+      "summary": "霍比特人弗罗多继承了一枚至尊魔戒，必须在中土被黑暗吞没之前将其投入末日火山的烈焰中销毁。九人护戒小队从瑞文戴尔出发，踏上了没有回头路的旅程。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2197698335.jpg"
+    },
+    {
+      "title": "教父2",
+      "director": {
+        "name": "弗朗西斯·福特·科波拉",
+        "region": "美国"
+      },
+      "year": 1974,
+      "genre": [
+        "剧情",
+        "犯罪"
+      ],
+      "rating": 9.2,
+      "duration": 202,
+      "region": [
+        "美国"
+      ],
+      "summary": "两条时间线交织：年轻的维托·柯里昂从西西里移民到纽约，一步步建立家族帝国；他的儿子迈克尔在父亲去世后成为新教父，却越来越孤独。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2194138787.jpg"
+    },
+    {
+      "title": "天空之城",
+      "director": {
+        "name": "宫崎骏",
+        "region": "日本"
+      },
+      "year": 1986,
+      "genre": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "rating": 9.1,
+      "duration": 124,
+      "region": [
+        "日本"
+      ],
+      "summary": "少女希达从空中坠落，被矿工少年巴鲁接住。她胸前神秘的飞行石引来了军队和海盗的追逐，两人一起寻找传说中漂浮在云端的天空之城拉普达。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2892409201.jpg"
+    },
+    {
+      "title": "沉默的羔羊",
+      "director": {
+        "name": "乔纳森·戴米",
+        "region": "美国"
+      },
+      "year": 1991,
+      "genre": [
+        "剧情",
+        "犯罪",
+        "惊悚"
+      ],
+      "rating": 8.9,
+      "duration": 118,
+      "region": [
+        "美国"
+      ],
+      "summary": "实习特工克拉丽丝为追踪连环杀手“野牛比尔“，求助于被关在精神病院高戒备牢房里的食人魔汉尼拔医生。两人之间的对话是一场猫鼠游戏般的心理博弈。",
+      "poster_url": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p1593414327.jpg"
+    },
+    {
+      "title": "拯救大兵瑞恩",
+      "director": {
+        "name": "史蒂文·斯皮尔伯格",
+        "region": "美国"
+      },
+      "year": 1998,
+      "genre": [
+        "剧情",
+        "战争"
+      ],
+      "rating": 9.1,
+      "duration": 169,
+      "region": [
+        "美国"
+      ],
+      "summary": "诺曼底登陆后，瑞恩家的四个儿子中三个战死。米勒上尉奉命率领一支八人小队深入德军腹地，寻找唯一幸存的第四个儿子詹姆斯·瑞恩，带他回家。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p1014542496.jpg"
+    },
+    {
+      "title": "素媛",
+      "director": {
+        "name": "李濬益",
+        "region": "韩国"
+      },
+      "year": 2013,
+      "genre": [
+        "剧情",
+        "家庭"
+      ],
+      "rating": 9.3,
+      "duration": 122,
+      "region": [
+        "韩国"
+      ],
+      "summary": "一个雨天的上学路上，8岁的素媛遭遇了残忍的性侵。此后，父母和身边的人用各自的方式，帮助这个破碎的小女孩一步步走出阴影。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2118532944.jpg"
+    },
+    {
+      "title": "死亡诗社",
+      "director": {
+        "name": "彼得·威尔",
+        "region": "澳大利亚"
+      },
+      "year": 1989,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 9.1,
+      "duration": 128,
+      "region": [
+        "美国"
+      ],
+      "summary": "威尔顿预科学院的新英语老师基廷用诗歌和自由精神唤醒了学生们被压抑的心灵，鼓励他们“Seize the day”。少年们重建了“死亡诗社“，但悲剧悄然而至。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575465690.jpg"
+    },
+    {
+      "title": "黑客帝国",
+      "director": {
+        "name": "莉莉·沃卓斯基",
+        "region": "美国"
+      },
+      "year": 1999,
+      "genre": [
+        "科幻",
+        "动作"
+      ],
+      "rating": 9.1,
+      "duration": 136,
+      "region": [
+        "美国",
+        "澳大利亚"
+      ],
+      "summary": "程序猿尼奥发现自己生活的世界只是一个名为“矩阵“的虚拟程序，真实的人类被机器奴役在营养液中。吃下红色药丸后，他看到了真实世界的荒漠。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p451926968.jpg"
+    },
+    {
+      "title": "饮食男女",
+      "director": {
+        "name": "李安",
+        "region": "中国台湾"
+      },
+      "year": 1994,
+      "genre": [
+        "剧情",
+        "家庭"
+      ],
+      "rating": 9.2,
+      "duration": 124,
+      "region": [
+        "中国台湾",
+        "美国"
+      ],
+      "summary": "退休名厨老朱独自抚养三个女儿，每周日的家宴是全家人唯一的纽带。一道道精美菜肴之间，藏着每个人不愿说出口的秘密。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p1910899751.jpg"
+    },
+    {
+      "title": "疯狂动物城",
+      "director": {
+        "name": "拜伦·霍华德",
+        "region": "美国"
+      },
+      "year": 2016,
+      "genre": [
+        "动画",
+        "冒险",
+        "喜剧"
+      ],
+      "rating": 9.2,
+      "duration": 109,
+      "region": [
+        "美国"
+      ],
+      "summary": "兔子朱迪从小梦想当警察，来到动物城后却只能做开罚单的差事。她抓住机会调查一桩神秘失踪案，和狐狸尼克结成搭档揭开了一个大阴谋。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2924128964.jpg"
+    },
+    {
+      "title": "罗马假日",
+      "director": {
+        "name": "威廉·惠勒",
+        "region": "美国"
+      },
+      "year": 1953,
+      "genre": [
+        "喜剧",
+        "爱情"
+      ],
+      "rating": 9.1,
+      "duration": 118,
+      "region": [
+        "美国"
+      ],
+      "summary": "厌烦了王室繁文缛节的安妮公主在罗马街头邂逅了美国记者乔，两人骑着摩托车穿越大街小巷，度过了童话般的一天。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2189265085.jpg"
+    },
+    {
+      "title": "哈尔的移动城堡",
+      "director": {
+        "name": "宫崎骏",
+        "region": "日本"
+      },
+      "year": 2004,
+      "genre": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "rating": 9.1,
+      "duration": 119,
+      "region": [
+        "日本"
+      ],
+      "summary": "帽子店女孩苏菲被荒野女巫变成了90岁的老太婆，逃入荒野后住进了魔法师哈尔那座蒸汽驱动、在荒原上行走的移动城堡里。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2907583906.jpg"
+    },
+    {
+      "title": "我不是药神",
+      "director": {
+        "name": "文牧野",
+        "region": "中国"
+      },
+      "year": 2018,
+      "genre": [
+        "剧情",
+        "喜剧"
+      ],
+      "rating": 9,
+      "duration": 117,
+      "region": [
+        "中国"
+      ],
+      "summary": "保健品店主程勇为了赚钱从印度走私低价仿制药，却意外成为白血病患者眼中的“药神“。当法律与生命冲突时，他该如何抉择。",
+      "poster_url": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527119568.jpg"
+    },
+    {
+      "title": "看不见的客人",
+      "director": {
+        "name": "奥里奥尔·保罗",
+        "region": "西班牙"
+      },
+      "year": 2016,
+      "genre": [
+        "悬疑",
+        "犯罪"
+      ],
+      "rating": 8.8,
+      "duration": 106,
+      "region": [
+        "西班牙"
+      ],
+      "summary": "企业家阿德里安被控谋杀情妇，他请来顶级律师为自己辩护。一夜之间，双方一次次推倒重来，真相在层层反转中逐步浮出水面。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2498971355.jpg"
+    },
+    {
+      "title": "猫鼠游戏",
+      "director": {
+        "name": "史蒂文·斯皮尔伯格",
+        "region": "美国"
+      },
+      "year": 2002,
+      "genre": [
+        "剧情",
+        "犯罪",
+        "传记"
+      ],
+      "rating": 9.1,
+      "duration": 141,
+      "region": [
+        "美国",
+        "加拿大"
+      ],
+      "summary": "16岁的弗兰克·阿巴内尔在父母离异后出走，靠伪造支票和假冒身份（飞行员、医生、律师）成为FBI史上最年轻的头号通缉犯。探员卡尔花了数年追捕这个天才骗子。",
+      "poster_url": "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p453924541.jpg"
+    },
+    {
+      "title": "心灵捕手",
+      "director": {
+        "name": "格斯·范·桑特",
+        "region": "美国"
+      },
+      "year": 1997,
+      "genre": [
+        "剧情"
+      ],
+      "rating": 8.9,
+      "duration": 126,
+      "region": [
+        "美国"
+      ],
+      "summary": "麻省理工学院的清洁工威尔是个数学天才，却用叛逆和暴力把自己封闭起来。心理医生肖恩用真诚的对话，帮他走出了童年的阴影。",
+      "poster_url": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p480965695.jpg"
+    }
+  ]
+}
